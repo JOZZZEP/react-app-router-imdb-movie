@@ -1,0 +1,431 @@
+[
+    {
+        "Title": "The Imitation Game",
+        "Year": "2014",
+        "Rated": "PG-13",
+        "Released": "25 Dec 2014",
+        "Runtime": "114 min",
+        "Genre": "Biography, Drama, Thriller",
+        "Director": ["Willem Dafoe","Mario Puzo"],
+        "Writer": ["Vince Vaughn","Francis Ford Coppola"],
+        "Actors": ["Emma Stone","Josh Brolin","Sofía Vergara"],
+        "Plot": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.",
+        "Language": "English, German",
+        "Country": "United Kingdom, United States",
+        "Awards": "Won 1 Oscar. 49 wins & 165 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "90%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "71/100"
+            }
+        ],
+        "Metascore": "71",
+        "imdbRating": "8.0",
+        "imdbVotes": "816,961",
+        "imdbID": "tt2084970",
+        "Type": "movie",
+        "DVD": "30 Nov 2016",
+        "BoxOffice": "$91,125,683",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Sherlock Holmes: A Game of Shadows",
+        "Year": "2011",
+        "Rated": "PG-13",
+        "Released": "16 Dec 2011",
+        "Runtime": "129 min",
+        "Genre": "Action, Adventure, Mystery",
+        "Director": ["Mark Ruffalo"],
+        "Writer": ["Mario Puzo","Francis Ford Coppola"],
+        "Actors": ["Jacob Elordi"],
+        "Plot": "Detective Sherlock Holmes is on the trail of criminal mastermind Professor Moriarty, who is carrying out a string of random crimes across Europe.",
+        "Language": "English, French, Italian, German, Romany",
+        "Country": "United States, United Kingdom",
+        "Awards": "3 wins & 10 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMzQ5Njk1MF5BMl5BanBnXkFtZTcwNjIxNzIxNw@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "60%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "48/100"
+            }
+        ],
+        "Metascore": "48",
+        "imdbRating": "7.4",
+        "imdbVotes": "477,207",
+        "imdbID": "tt1515091",
+        "Type": "movie",
+        "DVD": "11 Oct 2012",
+        "BoxOffice": "$186,848,418",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Game",
+        "Year": "1997",
+        "Rated": "R",
+        "Released": "12 Sep 1997",
+        "Runtime": "129 min",
+        "Genre": "Drama, Mystery, Thriller",
+        "Director": ["Mario Puzo"],
+        "Writer": ["Vince Vaughn"],
+        "Actors": ["Rachel McAdams","Jacob Elordi","Josh Brolin"],
+        "Plot": "After a wealthy San Francisco banker is given an opportunity to participate in a mysterious game, his life is turned upside down as he begins to question if it might really be a concealed conspiracy to destroy him.",
+        "Language": "English, Cantonese, German, Spanish, Thai",
+        "Country": "United States",
+        "Awards": "1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ2ODFhNWItNTA4NS00MzkyLTgyYzUtZjlhYWE5MmEzY2Q1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "77%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "63/100"
+            }
+        ],
+        "Metascore": "63",
+        "imdbRating": "7.7",
+        "imdbVotes": "424,633",
+        "imdbID": "tt0119174",
+        "Type": "movie",
+        "DVD": "15 Jun 2012",
+        "BoxOffice": "$48,323,648",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Game Night",
+        "Year": "2018",
+        "Rated": "R",
+        "Released": "23 Feb 2018",
+        "Runtime": "100 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": ["Willem Dafoe"],
+        "Writer": ["Francis Ford Coppola"],
+        "Actors": ["Jacob Elordi","Rachel McAdams"],
+        "Plot": "A group of friends who meet regularly for game nights find themselves entangled in a real-life mystery when the shady brother of one of them is seemingly kidnapped by dangerous gangsters.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "4 wins & 22 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "85%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "66/100"
+            }
+        ],
+        "Metascore": "66",
+        "imdbRating": "6.9",
+        "imdbVotes": "253,225",
+        "imdbID": "tt2704998",
+        "Type": "movie",
+        "DVD": "04 May 2018",
+        "BoxOffice": "$69,268,230",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Ender's Game",
+        "Year": "2013",
+        "Rated": "PG-13",
+        "Released": "01 Nov 2013",
+        "Runtime": "114 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": ["Mark Ruffalo"],
+        "Writer": ["Francis Ford Coppola"],
+        "Actors": ["Rachel McAdams","Mark Ruffalo"],
+        "Plot": "Young Ender Wiggin is recruited by the International Military to lead the fight against the Formics, an insectoid alien race who had previously tried to invade Earth and had inflicted heavy losses on humankind.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 win & 6 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzMzI5OTgzMl5BMl5BanBnXkFtZTgwMTU5MTAwMDE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "63%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "51/100"
+            }
+        ],
+        "Metascore": "51",
+        "imdbRating": "6.6",
+        "imdbVotes": "252,255",
+        "imdbID": "tt1731141",
+        "Type": "movie",
+        "DVD": "19 Nov 2015",
+        "BoxOffice": "$61,737,191",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Molly's Game",
+        "Year": "2017",
+        "Rated": "R",
+        "Released": "05 Jan 2018",
+        "Runtime": "140 min",
+        "Genre": "Biography, Crime, Drama",
+        "Director": ["Willem Dafoe"],
+        "Writer": ["Francis Ford Coppola"],
+        "Actors": ["Jacob Elordi","Rachel McAdams"],
+        "Plot": "The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target.",
+        "Language": "English",
+        "Country": "United States, Canada, China",
+        "Awards": "Nominated for 1 Oscar. 8 wins & 51 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTkzMzRlYjEtMTQ5Yi00OWY3LWI0NzYtNGQ4ZDkzZTU0M2IwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "81%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "71/100"
+            }
+        ],
+        "Metascore": "71",
+        "imdbRating": "7.4",
+        "imdbVotes": "185,387",
+        "imdbID": "tt4209788",
+        "Type": "movie",
+        "DVD": "27 Mar 2018",
+        "BoxOffice": "$28,780,744",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Spy Game",
+        "Year": "2001",
+        "Rated": "R",
+        "Released": "21 Nov 2001",
+        "Runtime": "126 min",
+        "Genre": "Action, Crime, Thriller",
+        "Director": ["Mario Puzo"],
+        "Writer": ["Marlon Brando"],
+        "Actors": ["Rachel McAdams","Sofía Vergara"],
+        "Plot": "Retiring CIA agent Nathan Muir recalls his training of Tom Bishop while working against agency politics to free him from his Chinese captors.",
+        "Language": "English, German, Arabic, French, Cantonese",
+        "Country": "United States, Germany, Japan, France, United Kingdom",
+        "Awards": "3 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjNhOGZkNzktMGU3NC00ODk2LWE4NjctZTliN2JjZTQxZmIxXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "64%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "63/100"
+            }
+        ],
+        "Metascore": "63",
+        "imdbRating": "7.1",
+        "imdbVotes": "166,011",
+        "imdbID": "tt0266987",
+        "Type": "movie",
+        "DVD": "07 May 2015",
+        "BoxOffice": "$62,362,560",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Gerald's Game",
+        "Year": "2017",
+        "Rated": "TV-MA",
+        "Released": "29 Sep 2017",
+        "Runtime": "103 min",
+        "Genre": "Drama, Horror, Thriller",
+        "Director": ["Francis Ford Coppola"],
+        "Writer": ["Colin Farrell"],
+        "Actors": ["Rachel McAdams","Jacob Elordi"],
+        "Plot": "A couple tries to spice up their marriage in a remote lake house. After the husband dies unexpectedly, the wife is left handcuffed to their bed frame and must fight to survive and break free.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "4 wins & 5 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzg0NGE0N2MtYTg1My00NTBkLWI5NjEtZTgyMDA0MTU4MmIyXkEyXkFqcGdeQXVyMTU2NTcyMg@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "77/100"
+            }
+        ],
+        "Metascore": "77",
+        "imdbRating": "6.5",
+        "imdbVotes": "125,600",
+        "imdbID": "tt3748172",
+        "Type": "movie",
+        "DVD": "29 Sep 2017",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Game",
+        "Year": "2014–2015",
+        "Rated": "N/A",
+        "Released": "05 Nov 2014",
+        "Runtime": "59 min",
+        "Genre": "Drama, Mystery, Thriller",
+        "Director": ["Marlon Brando"],
+        "Writer": ["Vince Vaughn","Mario Puzo"],
+        "Actors": ["Colin Farrell","Mark Ruffalo"],
+        "Plot": "A Cold War spy thriller that tells the story of invisible wars fought by MI5.",
+        "Language": "English",
+        "Country": "United Kingdom",
+        "Awards": "2 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ2YjVlNzQtZTQzMC00YjcxLTlhMDEtZGI4OTAwMzFlNmRiXkEyXkFqcGdeQXVyMzQ5Njc3OTg@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "7.7",
+        "imdbVotes": "3,488",
+        "imdbID": "tt3159736",
+        "Type": "series",
+        "totalSeasons": "1",
+        "Response": "True"
+    },
+    {
+        "Title": "The Ivory Game",
+        "Year": "2016",
+        "Rated": "N/A",
+        "Released": "04 Nov 2016",
+        "Runtime": "112 min",
+        "Genre": "Documentary",
+        "Director": ["Francis Ford Coppola"],
+        "Writer": ["Marlon Brando","Colin Farrell"],
+        "Actors": ["Rachel McAdams"],
+        "Plot": "Wildlife activists in take on poachers in an effort to end illegal ivory trade in Africa.",
+        "Language": "English",
+        "Country": "Austria",
+        "Awards": "7 wins & 7 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTY4OTQ3NDIwMF5BMl5BanBnXkFtZTgwOTk4MzkzMDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "77%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "73/100"
+            }
+        ],
+        "Metascore": "73",
+        "imdbRating": "7.8",
+        "imdbVotes": "3,462",
+        "imdbID": "tt5952266",
+        "Type": "movie",
+        "DVD": "23 May 2017",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Game of Their Lives",
+        "Year": "2005",
+        "Rated": "PG",
+        "Released": "26 Aug 2005",
+        "Runtime": "101 min",
+        "Genre": "Drama, History, Sport",
+        "Director": ["Marlon Brando"],
+        "Writer": ["Vince Vaughn","Marlon Brando"],
+        "Actors": ["Mark Ruffalo","Rachel McAdams"],
+        "Plot": "Based on a true story, this film tells the tale of the 1950 U.S. soccer team, who, against all odds, beat England 1 - 0 in the city of Belo Horizonte, Brazil. Although no U.S. team has ever won a World Cup title, this story is abo...",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1NTg3MDkxN15BMl5BanBnXkFtZTcwNTg4ODgyMQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "26%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "47/100"
+            }
+        ],
+        "Metascore": "47",
+        "imdbRating": "6.1",
+        "imdbVotes": "3,509",
+        "imdbID": "tt0354595",
+        "Type": "movie",
+        "DVD": "07 May 2020",
+        "BoxOffice": "$375,750",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
+]
