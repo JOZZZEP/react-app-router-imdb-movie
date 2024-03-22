@@ -65,7 +65,7 @@ const MoviePage = () => {
     <>
       <Container maxWidth={"lg"}>
         <Typography p={2} color={"gold"} variant="h4">
-          Top 100 Movies
+          Movies
         </Typography>
         <div className="body-container">
           <div className="main-slider-container">

@@ -1,6 +1,5 @@
 import AddIcon from "@mui/icons-material/Add";
 import CollectionsIcon from "@mui/icons-material/Collections";
-import PlayCircleOutlineIcon from "@mui/icons-material/PlayCircleOutline";
 import StarIcon from "@mui/icons-material/Star";
 import VideoLibraryIcon from "@mui/icons-material/VideoLibrary";
 import {
@@ -56,40 +55,12 @@ const MovieInfoPage = () => {
             <CardMedia component="img" image={movie?.Poster} />
           </Card>
           <Box sx={{ flex: "5 0 400px" }}>
-            <Box
-              sx={{
-                backgroundImage: `url(${movie?.Poster})`,
-                backgroundColor: "black",
-                backgroundRepeat: "no-repeat",
-                backgroundSize: "contain",
-                backgroundPosition: "center",
-                position: "relative",
-                borderRadius: 2,
-                height: "100%",
-              }}
-            >
-              <Box
-                sx={{
-                  backgroundColor: "rgba(0, 0, 0, 0.5)",
-                  width: "100%",
-                  height: "100%",
-                  position: "absolute",
-                  borderRadius: 2,
-                }}
-              ></Box>
-              <Box sx={{ display: "flex", alignItems: "end", height: "100%" }}>
-                <Box sx={{ display: "flex", alignItems: "center" }}>
-                  <IconButton>
-                    <PlayCircleOutlineIcon
-                      color="warning"
-                      sx={{ fontSize: 100 }}
-                    />
-                  </IconButton>
-                  <Typography color={"white"} variant="h5">
-                    Play
-                  </Typography>
-                </Box>
-              </Box>
+            <Box sx={{ height: "100%" }}>
+              <iframe
+                height={"100%"}
+                width={"100%"}
+                src="https://www.youtube.com/embed/8uuTQX3OPbQ"
+              ></iframe>
             </Box>
           </Box>
           <Box
